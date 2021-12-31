@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 376db70de7c032646a6d9888a72dffa2
+timeCreated: 1478860493
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CH_WoodDoor
+    100002: Door1
+    100004: Door17
+    100006: Door18
+    100008: Door19
+    100010: Door20
+    100012: DoorKnob
+    100014: Doorknob
+    100016: Doorknob17
+    100018: DoorKnob3
+    100020: DoorKnob4
+    100022: DoorKnob5
+    100024: //RootNode
+    100026: FF_CR_Doors_Frames1
+    100028: FF_CR_FC1
+    100030: FF_CR_InsideWalls1
+    100032: FF_CR_Walls1
+    400000: CH_WoodDoor
+    400002: Door1
+    400004: Door17
+    400006: Door18
+    400008: Door19
+    400010: Door20
+    400012: DoorKnob
+    400014: Doorknob
+    400016: Doorknob17
+    400018: DoorKnob3
+    400020: DoorKnob4
+    400022: DoorKnob5
+    400024: //RootNode
+    400026: FF_CR_Doors_Frames1
+    400028: FF_CR_FC1
+    400030: FF_CR_InsideWalls1
+    400032: FF_CR_Walls1
+    2300000: CH_WoodDoor
+    2300002: Door1
+    2300004: Door17
+    2300006: Door18
+    2300008: Door19
+    2300010: Door20
+    2300012: DoorKnob
+    2300014: Doorknob
+    2300016: Doorknob17
+    2300018: DoorKnob3
+    2300020: DoorKnob4
+    2300022: DoorKnob5
+    2300024: FF_CR_Doors_Frames1
+    2300026: FF_CR_FC1
+    2300028: FF_CR_InsideWalls1
+    2300030: FF_CR_Walls1
+    3300000: CH_WoodDoor
+    3300002: Door1
+    3300004: Door17
+    3300006: Door18
+    3300008: Door19
+    3300010: Door20
+    3300012: DoorKnob
+    3300014: Doorknob
+    3300016: Doorknob17
+    3300018: DoorKnob3
+    3300020: DoorKnob4
+    3300022: DoorKnob5
+    3300024: FF_CR_Doors_Frames1
+    3300026: FF_CR_FC1
+    3300028: FF_CR_InsideWalls1
+    3300030: FF_CR_Walls1
+    4300000: FF_CR_Doors_Frames1
+    4300002: Door20
+    4300004: DoorKnob3
+    4300006: Door19
+    4300008: DoorKnob
+    4300010: Door18
+    4300012: DoorKnob4
+    4300014: Door17
+    4300016: DoorKnob5
+    4300018: Door1
+    4300020: Doorknob
+    4300022: CH_WoodDoor
+    4300024: Doorknob17
+    4300026: FF_CR_Walls1
+    4300028: FF_CR_InsideWalls1
+    4300030: FF_CR_FC1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

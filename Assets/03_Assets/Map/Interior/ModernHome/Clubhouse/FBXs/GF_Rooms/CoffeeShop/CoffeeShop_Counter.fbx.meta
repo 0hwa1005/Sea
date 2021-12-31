@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 46464a25988e57643a92a4c8c58bb08d
+timeCreated: 1478770421
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CoffeeShop_CounterInside
+    100004: CoffeeShop_GasStove
+    100006: CoffeeShop_GasStoveMetal
+    100008: CoffeeShop_Glass_3
+    100010: CoffeeShop_Glass_4
+    100012: CoffeeShop_HandleMetal_1
+    100014: CoffeeShop_HandleMetal_2
+    100016: CoffeeShop_HandleMetal_3
+    100018: CoffeeShop_Oven
+    100020: CoffeeShop_Platform
+    100022: CoffeeShop_SinkMetal_1
+    100024: CoffeeShop_SinkMetal_2
+    100026: CoffeeShop_TapMetal_1
+    100028: CoffeeShop_TapMetal_2
+    100030: Fridge_Door_1
+    100032: Fridge_Door_2
+    100034: Fridge_Door_3
+    400000: //RootNode
+    400002: CoffeeShop_CounterInside
+    400004: CoffeeShop_GasStove
+    400006: CoffeeShop_GasStoveMetal
+    400008: CoffeeShop_Glass_3
+    400010: CoffeeShop_Glass_4
+    400012: CoffeeShop_HandleMetal_1
+    400014: CoffeeShop_HandleMetal_2
+    400016: CoffeeShop_HandleMetal_3
+    400018: CoffeeShop_Oven
+    400020: CoffeeShop_Platform
+    400022: CoffeeShop_SinkMetal_1
+    400024: CoffeeShop_SinkMetal_2
+    400026: CoffeeShop_TapMetal_1
+    400028: CoffeeShop_TapMetal_2
+    400030: Fridge_Door_1
+    400032: Fridge_Door_2
+    400034: Fridge_Door_3
+    2300000: CoffeeShop_CounterInside
+    2300002: CoffeeShop_GasStove
+    2300004: CoffeeShop_GasStoveMetal
+    2300006: CoffeeShop_Glass_3
+    2300008: CoffeeShop_Glass_4
+    2300010: CoffeeShop_HandleMetal_1
+    2300012: CoffeeShop_HandleMetal_2
+    2300014: CoffeeShop_HandleMetal_3
+    2300016: CoffeeShop_Oven
+    2300018: CoffeeShop_Platform
+    2300020: CoffeeShop_SinkMetal_1
+    2300022: CoffeeShop_SinkMetal_2
+    2300024: CoffeeShop_TapMetal_1
+    2300026: CoffeeShop_TapMetal_2
+    2300028: Fridge_Door_1
+    2300030: Fridge_Door_2
+    2300032: Fridge_Door_3
+    3300000: CoffeeShop_CounterInside
+    3300002: CoffeeShop_GasStove
+    3300004: CoffeeShop_GasStoveMetal
+    3300006: CoffeeShop_Glass_3
+    3300008: CoffeeShop_Glass_4
+    3300010: CoffeeShop_HandleMetal_1
+    3300012: CoffeeShop_HandleMetal_2
+    3300014: CoffeeShop_HandleMetal_3
+    3300016: CoffeeShop_Oven
+    3300018: CoffeeShop_Platform
+    3300020: CoffeeShop_SinkMetal_1
+    3300022: CoffeeShop_SinkMetal_2
+    3300024: CoffeeShop_TapMetal_1
+    3300026: CoffeeShop_TapMetal_2
+    3300028: Fridge_Door_1
+    3300030: Fridge_Door_2
+    3300032: Fridge_Door_3
+    4300000: Fridge_Door_3
+    4300002: Fridge_Door_2
+    4300004: Fridge_Door_1
+    4300006: CoffeeShop_Oven
+    4300008: CoffeeShop_GasStove
+    4300010: CoffeeShop_CounterInside
+    4300012: CoffeeShop_Glass_3
+    4300014: CoffeeShop_Glass_4
+    4300016: CoffeeShop_SinkMetal_1
+    4300018: CoffeeShop_SinkMetal_2
+    4300020: CoffeeShop_HandleMetal_1
+    4300022: CoffeeShop_HandleMetal_2
+    4300024: CoffeeShop_HandleMetal_3
+    4300026: CoffeeShop_TapMetal_2
+    4300028: CoffeeShop_TapMetal_1
+    4300030: CoffeeShop_GasStoveMetal
+    4300032: CoffeeShop_Platform
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

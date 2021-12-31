@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: dd89a1182cbeed040bd733d75c26751c
+timeCreated: 1478778079
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CR_InsideWalls1
+    100002: CR_Mirror3
+    100004: Door1
+    100006: Door32
+    100008: Door33
+    100010: Door34
+    100012: DoorFrames
+    100014: Doorknob15
+    100016: Doorknob7
+    100018: Doorknob8
+    100020: Doorknob9
+    100022: GF_CR1_FCIllum_2
+    100024: GF_CR1_MirrorIllum_2
+    100026: GF_CR1_MirrorMetal_2
+    100028: GF_His_Washroom_FC1
+    100030: GF_His_Washroom_Walls1
+    100032: //RootNode
+    100034: Gym_His_Bathroom_FalseCeiling
+    100036: Gym_His_Bathroom_Mirror
+    400000: CR_InsideWalls1
+    400002: CR_Mirror3
+    400004: Door1
+    400006: Door32
+    400008: Door33
+    400010: Door34
+    400012: DoorFrames
+    400014: Doorknob15
+    400016: Doorknob7
+    400018: Doorknob8
+    400020: Doorknob9
+    400022: GF_CR1_FCIllum_2
+    400024: GF_CR1_MirrorIllum_2
+    400026: GF_CR1_MirrorMetal_2
+    400028: GF_His_Washroom_FC1
+    400030: GF_His_Washroom_Walls1
+    400032: //RootNode
+    400034: Gym_His_Bathroom_FalseCeiling
+    400036: Gym_His_Bathroom_Mirror
+    2300000: CR_InsideWalls1
+    2300002: CR_Mirror3
+    2300004: Door1
+    2300006: Door32
+    2300008: Door33
+    2300010: Door34
+    2300012: DoorFrames
+    2300014: Doorknob15
+    2300016: Doorknob7
+    2300018: Doorknob8
+    2300020: Doorknob9
+    2300022: GF_CR1_FCIllum_2
+    2300024: GF_CR1_MirrorIllum_2
+    2300026: GF_CR1_MirrorMetal_2
+    2300028: GF_His_Washroom_FC1
+    2300030: GF_His_Washroom_Walls1
+    3300000: CR_InsideWalls1
+    3300002: CR_Mirror3
+    3300004: Door1
+    3300006: Door32
+    3300008: Door33
+    3300010: Door34
+    3300012: DoorFrames
+    3300014: Doorknob15
+    3300016: Doorknob7
+    3300018: Doorknob8
+    3300020: Doorknob9
+    3300022: GF_CR1_FCIllum_2
+    3300024: GF_CR1_MirrorIllum_2
+    3300026: GF_CR1_MirrorMetal_2
+    3300028: GF_His_Washroom_FC1
+    3300030: GF_His_Washroom_Walls1
+    4300000: Door1
+    4300002: Doorknob15
+    4300004: Door32
+    4300006: Doorknob7
+    4300008: Door33
+    4300010: Doorknob8
+    4300012: Door34
+    4300014: Doorknob9
+    4300016: DoorFrames
+    4300018: CR_InsideWalls1
+    4300020: GF_His_Washroom_Walls1
+    4300022: CR_Mirror3
+    4300024: GF_CR1_MirrorMetal_2
+    4300026: GF_CR1_MirrorIllum_2
+    4300028: GF_His_Washroom_FC1
+    4300030: GF_CR1_FCIllum_2
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

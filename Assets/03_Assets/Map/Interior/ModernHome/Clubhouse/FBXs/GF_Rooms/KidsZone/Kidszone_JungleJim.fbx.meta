@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: cf0e792673fa3b443aa039546c2b2f6c
+timeCreated: 1478781426
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Kidszone_Ball_1
+    100002: Kidszone_Ball_10
+    100004: Kidszone_Ball_11
+    100006: Kidszone_Ball_12
+    100008: Kidszone_Ball_13
+    100010: Kidszone_Ball_14
+    100012: Kidszone_Ball_15
+    100014: Kidszone_Ball_16
+    100016: Kidszone_Ball_2
+    100018: Kidszone_Ball_3
+    100020: Kidszone_Ball_4
+    100022: Kidszone_Ball_5
+    100024: Kidszone_Ball_6
+    100026: Kidszone_Ball_7
+    100028: Kidszone_Ball_8
+    100030: Kidszone_Ball_9
+    100032: Kidszone_Hoop
+    100034: //RootNode
+    100036: KidZone_Jungle
+    400000: Kidszone_Ball_1
+    400002: Kidszone_Ball_10
+    400004: Kidszone_Ball_11
+    400006: Kidszone_Ball_12
+    400008: Kidszone_Ball_13
+    400010: Kidszone_Ball_14
+    400012: Kidszone_Ball_15
+    400014: Kidszone_Ball_16
+    400016: Kidszone_Ball_2
+    400018: Kidszone_Ball_3
+    400020: Kidszone_Ball_4
+    400022: Kidszone_Ball_5
+    400024: Kidszone_Ball_6
+    400026: Kidszone_Ball_7
+    400028: Kidszone_Ball_8
+    400030: Kidszone_Ball_9
+    400032: Kidszone_Hoop
+    400034: //RootNode
+    400036: KidZone_Jungle
+    2300000: Kidszone_Ball_1
+    2300002: Kidszone_Ball_10
+    2300004: Kidszone_Ball_11
+    2300006: Kidszone_Ball_12
+    2300008: Kidszone_Ball_13
+    2300010: Kidszone_Ball_14
+    2300012: Kidszone_Ball_15
+    2300014: Kidszone_Ball_16
+    2300016: Kidszone_Ball_2
+    2300018: Kidszone_Ball_3
+    2300020: Kidszone_Ball_4
+    2300022: Kidszone_Ball_5
+    2300024: Kidszone_Ball_6
+    2300026: Kidszone_Ball_7
+    2300028: Kidszone_Ball_8
+    2300030: Kidszone_Ball_9
+    2300032: Kidszone_Hoop
+    2300034: KidZone_Jungle
+    3300000: Kidszone_Ball_1
+    3300002: Kidszone_Ball_10
+    3300004: Kidszone_Ball_11
+    3300006: Kidszone_Ball_12
+    3300008: Kidszone_Ball_13
+    3300010: Kidszone_Ball_14
+    3300012: Kidszone_Ball_15
+    3300014: Kidszone_Ball_16
+    3300016: Kidszone_Ball_2
+    3300018: Kidszone_Ball_3
+    3300020: Kidszone_Ball_4
+    3300022: Kidszone_Ball_5
+    3300024: Kidszone_Ball_6
+    3300026: Kidszone_Ball_7
+    3300028: Kidszone_Ball_8
+    3300030: Kidszone_Ball_9
+    3300032: Kidszone_Hoop
+    3300034: KidZone_Jungle
+    4300000: Kidszone_Hoop
+    4300002: KidZone_Jungle
+    4300004: Kidszone_Ball_1
+    4300006: Kidszone_Ball_2
+    4300008: Kidszone_Ball_3
+    4300010: Kidszone_Ball_4
+    4300012: Kidszone_Ball_5
+    4300014: Kidszone_Ball_6
+    4300016: Kidszone_Ball_7
+    4300018: Kidszone_Ball_8
+    4300020: Kidszone_Ball_9
+    4300022: Kidszone_Ball_10
+    4300024: Kidszone_Ball_11
+    4300026: Kidszone_Ball_12
+    4300028: Kidszone_Ball_13
+    4300030: Kidszone_Ball_14
+    4300032: Kidszone_Ball_15
+    4300034: Kidszone_Ball_16
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

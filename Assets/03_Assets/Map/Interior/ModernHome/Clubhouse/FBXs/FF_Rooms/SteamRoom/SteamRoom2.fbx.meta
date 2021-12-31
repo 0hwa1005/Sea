@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: faddb59bad25af449b0f0990482abb4a
+timeCreated: 1478851776
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SteamRoom_Towel3
+    100004: SteamRoom_Walls2
+    100006: StreamRoom2_Bench
+    100008: StreamRoom2_Clock
+    100010: StreamRoom2_Shelf
+    100012: StreamRoom2_SteamGrills_1
+    100014: StreamRoom2_SteamGrills_2
+    100016: StreamRoom2_Towel_1
+    100018: StreamRoom2_Towel_2
+    100020: StreamRoom2_Towel_3
+    400000: //RootNode
+    400002: SteamRoom_Towel3
+    400004: SteamRoom_Walls2
+    400006: StreamRoom2_Bench
+    400008: StreamRoom2_Clock
+    400010: StreamRoom2_Shelf
+    400012: StreamRoom2_SteamGrills_1
+    400014: StreamRoom2_SteamGrills_2
+    400016: StreamRoom2_Towel_1
+    400018: StreamRoom2_Towel_2
+    400020: StreamRoom2_Towel_3
+    2300000: SteamRoom_Walls2
+    2300002: StreamRoom2_Bench
+    2300004: StreamRoom2_Clock
+    2300006: StreamRoom2_Shelf
+    2300008: StreamRoom2_SteamGrills_1
+    2300010: StreamRoom2_SteamGrills_2
+    2300012: StreamRoom2_Towel_1
+    2300014: StreamRoom2_Towel_2
+    2300016: StreamRoom2_Towel_3
+    3300000: SteamRoom_Walls2
+    3300002: StreamRoom2_Bench
+    3300004: StreamRoom2_Clock
+    3300006: StreamRoom2_Shelf
+    3300008: StreamRoom2_SteamGrills_1
+    3300010: StreamRoom2_SteamGrills_2
+    3300012: StreamRoom2_Towel_1
+    3300014: StreamRoom2_Towel_2
+    3300016: StreamRoom2_Towel_3
+    4300000: SteamRoom_Walls2
+    4300002: StreamRoom2_SteamGrills_1
+    4300004: StreamRoom2_SteamGrills_2
+    4300006: StreamRoom2_Towel_3
+    4300008: StreamRoom2_Towel_1
+    4300010: StreamRoom2_Towel_2
+    4300012: StreamRoom2_Bench
+    4300014: StreamRoom2_Clock
+    4300016: StreamRoom2_Shelf
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

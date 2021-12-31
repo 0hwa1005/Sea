@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 5fba310f2cfaf3b4e982115d3edf2c20
+timeCreated: 1478784476
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Pantry_Cabinets
+    100002: //RootNode
+    100004: PantryRoom_CabinetMetal
+    100006: PantryRoom_GasStove_1
+    100008: PantryRoom_GasStove_2
+    100010: PantryRoom_GasStove_3
+    100012: PantryRoom_GasStoveMetal_1
+    100014: PantryRoom_GasStoveMetal_2
+    100016: PantryRoom_GasStoveMetal_3
+    100018: PantryRoom_Oven_1
+    100020: PantryRoom_Oven_2
+    100022: PantryRoom_Oven_3
+    100024: PantryRoom_Platform
+    100026: PantryRoom_SinkMetal_1
+    100028: PantryRoom_SinkMetal_2
+    100030: PantryRoom_TapSinkMetal_1
+    100032: PantryRoom_TapSinkMetal_2
+    400000: Pantry_Cabinets
+    400002: //RootNode
+    400004: PantryRoom_CabinetMetal
+    400006: PantryRoom_GasStove_1
+    400008: PantryRoom_GasStove_2
+    400010: PantryRoom_GasStove_3
+    400012: PantryRoom_GasStoveMetal_1
+    400014: PantryRoom_GasStoveMetal_2
+    400016: PantryRoom_GasStoveMetal_3
+    400018: PantryRoom_Oven_1
+    400020: PantryRoom_Oven_2
+    400022: PantryRoom_Oven_3
+    400024: PantryRoom_Platform
+    400026: PantryRoom_SinkMetal_1
+    400028: PantryRoom_SinkMetal_2
+    400030: PantryRoom_TapSinkMetal_1
+    400032: PantryRoom_TapSinkMetal_2
+    2300000: Pantry_Cabinets
+    2300002: PantryRoom_CabinetMetal
+    2300004: PantryRoom_GasStove_1
+    2300006: PantryRoom_GasStove_2
+    2300008: PantryRoom_GasStove_3
+    2300010: PantryRoom_GasStoveMetal_1
+    2300012: PantryRoom_GasStoveMetal_2
+    2300014: PantryRoom_GasStoveMetal_3
+    2300016: PantryRoom_Oven_1
+    2300018: PantryRoom_Oven_2
+    2300020: PantryRoom_Oven_3
+    2300022: PantryRoom_Platform
+    2300024: PantryRoom_SinkMetal_1
+    2300026: PantryRoom_SinkMetal_2
+    2300028: PantryRoom_TapSinkMetal_1
+    2300030: PantryRoom_TapSinkMetal_2
+    3300000: Pantry_Cabinets
+    3300002: PantryRoom_CabinetMetal
+    3300004: PantryRoom_GasStove_1
+    3300006: PantryRoom_GasStove_2
+    3300008: PantryRoom_GasStove_3
+    3300010: PantryRoom_GasStoveMetal_1
+    3300012: PantryRoom_GasStoveMetal_2
+    3300014: PantryRoom_GasStoveMetal_3
+    3300016: PantryRoom_Oven_1
+    3300018: PantryRoom_Oven_2
+    3300020: PantryRoom_Oven_3
+    3300022: PantryRoom_Platform
+    3300024: PantryRoom_SinkMetal_1
+    3300026: PantryRoom_SinkMetal_2
+    3300028: PantryRoom_TapSinkMetal_1
+    3300030: PantryRoom_TapSinkMetal_2
+    4300000: Pantry_Cabinets
+    4300002: PantryRoom_GasStoveMetal_1
+    4300004: PantryRoom_GasStoveMetal_2
+    4300006: PantryRoom_GasStoveMetal_3
+    4300008: PantryRoom_TapSinkMetal_2
+    4300010: PantryRoom_TapSinkMetal_1
+    4300012: PantryRoom_CabinetMetal
+    4300014: PantryRoom_SinkMetal_2
+    4300016: PantryRoom_SinkMetal_1
+    4300018: PantryRoom_Platform
+    4300020: PantryRoom_Oven_3
+    4300022: PantryRoom_Oven_2
+    4300024: PantryRoom_Oven_1
+    4300026: PantryRoom_GasStove_1
+    4300028: PantryRoom_GasStove_2
+    4300030: PantryRoom_GasStove_3
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

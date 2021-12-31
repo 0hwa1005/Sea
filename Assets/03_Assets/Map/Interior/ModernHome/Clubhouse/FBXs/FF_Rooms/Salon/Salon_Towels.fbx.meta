@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 81a3cb55c7e48dd4999918ec5409cb98
+timeCreated: 1478851042
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Salon1_Towel_1
+    100002: Salon1_Towel_10
+    100004: Salon1_Towel_11
+    100006: Salon1_Towel_12
+    100008: Salon1_Towel_13
+    100010: Salon1_Towel_14
+    100012: Salon1_Towel_2
+    100014: Salon1_Towel_3
+    100016: Salon1_Towel_4
+    100018: Salon1_Towel_5
+    100020: Salon1_Towel_6
+    100022: Salon1_Towel_7
+    100024: Salon1_Towel_8
+    100026: Salon1_Towel_9
+    100028: //RootNode
+    400000: Salon1_Towel_1
+    400002: Salon1_Towel_10
+    400004: Salon1_Towel_11
+    400006: Salon1_Towel_12
+    400008: Salon1_Towel_13
+    400010: Salon1_Towel_14
+    400012: Salon1_Towel_2
+    400014: Salon1_Towel_3
+    400016: Salon1_Towel_4
+    400018: Salon1_Towel_5
+    400020: Salon1_Towel_6
+    400022: Salon1_Towel_7
+    400024: Salon1_Towel_8
+    400026: Salon1_Towel_9
+    400028: //RootNode
+    2300000: Salon1_Towel_1
+    2300002: Salon1_Towel_10
+    2300004: Salon1_Towel_11
+    2300006: Salon1_Towel_12
+    2300008: Salon1_Towel_13
+    2300010: Salon1_Towel_14
+    2300012: Salon1_Towel_2
+    2300014: Salon1_Towel_3
+    2300016: Salon1_Towel_4
+    2300018: Salon1_Towel_5
+    2300020: Salon1_Towel_6
+    2300022: Salon1_Towel_7
+    2300024: Salon1_Towel_8
+    2300026: Salon1_Towel_9
+    3300000: Salon1_Towel_1
+    3300002: Salon1_Towel_10
+    3300004: Salon1_Towel_11
+    3300006: Salon1_Towel_12
+    3300008: Salon1_Towel_13
+    3300010: Salon1_Towel_14
+    3300012: Salon1_Towel_2
+    3300014: Salon1_Towel_3
+    3300016: Salon1_Towel_4
+    3300018: Salon1_Towel_5
+    3300020: Salon1_Towel_6
+    3300022: Salon1_Towel_7
+    3300024: Salon1_Towel_8
+    3300026: Salon1_Towel_9
+    4300000: Salon1_Towel_1
+    4300002: Salon1_Towel_2
+    4300004: Salon1_Towel_3
+    4300006: Salon1_Towel_4
+    4300008: Salon1_Towel_5
+    4300010: Salon1_Towel_6
+    4300012: Salon1_Towel_7
+    4300014: Salon1_Towel_8
+    4300016: Salon1_Towel_9
+    4300018: Salon1_Towel_10
+    4300020: Salon1_Towel_11
+    4300022: Salon1_Towel_12
+    4300024: Salon1_Towel_13
+    4300026: Salon1_Towel_14
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 38aedf9d7383d4a42ac2578430f9597b
+timeCreated: 1478778078
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CR_FC_4
+    100002: CR_InsideWalls4
+    100004: CR_Mirror4
+    100006: Door1
+    100008: Door35
+    100010: Door36
+    100012: Door37
+    100014: DoorFrames
+    100016: Doorknob
+    100018: Doorknob10
+    100020: Doorknob11
+    100022: Doorknob12
+    100024: GF_CR1_FCIllum_1
+    100026: GF_CR1_MirrorIllum_1
+    100028: GF_CR1_MirrorMetal_1
+    100030: GF_Her_Changing_Room_Walls
+    100032: //RootNode
+    100034: Gym_Her_Bathroom_FalseCeiling
+    100036: Gym_Her_Bathroom_Mirror
+    400000: CR_FC_4
+    400002: CR_InsideWalls4
+    400004: CR_Mirror4
+    400006: Door1
+    400008: Door35
+    400010: Door36
+    400012: Door37
+    400014: DoorFrames
+    400016: Doorknob
+    400018: Doorknob10
+    400020: Doorknob11
+    400022: Doorknob12
+    400024: GF_CR1_FCIllum_1
+    400026: GF_CR1_MirrorIllum_1
+    400028: GF_CR1_MirrorMetal_1
+    400030: GF_Her_Changing_Room_Walls
+    400032: //RootNode
+    400034: Gym_Her_Bathroom_FalseCeiling
+    400036: Gym_Her_Bathroom_Mirror
+    2300000: CR_FC_4
+    2300002: CR_InsideWalls4
+    2300004: CR_Mirror4
+    2300006: Door1
+    2300008: Door35
+    2300010: Door36
+    2300012: Door37
+    2300014: DoorFrames
+    2300016: Doorknob
+    2300018: Doorknob10
+    2300020: Doorknob11
+    2300022: Doorknob12
+    2300024: GF_CR1_FCIllum_1
+    2300026: GF_CR1_MirrorIllum_1
+    2300028: GF_CR1_MirrorMetal_1
+    2300030: GF_Her_Changing_Room_Walls
+    3300000: CR_FC_4
+    3300002: CR_InsideWalls4
+    3300004: CR_Mirror4
+    3300006: Door1
+    3300008: Door35
+    3300010: Door36
+    3300012: Door37
+    3300014: DoorFrames
+    3300016: Doorknob
+    3300018: Doorknob10
+    3300020: Doorknob11
+    3300022: Doorknob12
+    3300024: GF_CR1_FCIllum_1
+    3300026: GF_CR1_MirrorIllum_1
+    3300028: GF_CR1_MirrorMetal_1
+    3300030: GF_Her_Changing_Room_Walls
+    4300000: Door1
+    4300002: Doorknob
+    4300004: Door35
+    4300006: Doorknob10
+    4300008: Door36
+    4300010: Doorknob11
+    4300012: Door37
+    4300014: Doorknob12
+    4300016: DoorFrames
+    4300018: CR_InsideWalls4
+    4300020: GF_Her_Changing_Room_Walls
+    4300022: CR_FC_4
+    4300024: GF_CR1_FCIllum_1
+    4300026: CR_Mirror4
+    4300028: GF_CR1_MirrorMetal_1
+    4300030: GF_CR1_MirrorIllum_1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

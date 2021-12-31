@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 32c57c391b45d2841988fddf699cdcea
+timeCreated: 1478848549
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MassageRoom2_Candle_1
+    100004: MassageRoom2_Candle_2
+    100006: MassageRoom2_Candle_3
+    100008: MassageRoom2_Candle_4
+    100010: MassageRoom2_Candle_5
+    100012: MassageRoom2_Candle_6
+    100014: MassageRoom2_PotPurri
+    100016: MassageRoom2_PotPurri_Pot
+    100018: MassageRoom2_Table
+    100020: MassageRoom2_Towel_1
+    100022: MassageRoom2_Towel_2
+    100024: MassageRoom2_Towel_3
+    100026: MassageRoom2_Walls
+    100028: MassageRoom_BedMattress
+    100030: MassageRoom_BedMattress2
+    100032: MassageRoom_BedWood
+    100034: MassageRoom_Candels2
+    100036: MassageRoom_Props4
+    100038: MassageRoom_Wood4
+    400000: //RootNode
+    400002: MassageRoom2_Candle_1
+    400004: MassageRoom2_Candle_2
+    400006: MassageRoom2_Candle_3
+    400008: MassageRoom2_Candle_4
+    400010: MassageRoom2_Candle_5
+    400012: MassageRoom2_Candle_6
+    400014: MassageRoom2_PotPurri
+    400016: MassageRoom2_PotPurri_Pot
+    400018: MassageRoom2_Table
+    400020: MassageRoom2_Towel_1
+    400022: MassageRoom2_Towel_2
+    400024: MassageRoom2_Towel_3
+    400026: MassageRoom2_Walls
+    400028: MassageRoom_BedMattress
+    400030: MassageRoom_BedMattress2
+    400032: MassageRoom_BedWood
+    400034: MassageRoom_Candels2
+    400036: MassageRoom_Props4
+    400038: MassageRoom_Wood4
+    2300000: MassageRoom2_Candle_1
+    2300002: MassageRoom2_Candle_2
+    2300004: MassageRoom2_Candle_3
+    2300006: MassageRoom2_Candle_4
+    2300008: MassageRoom2_Candle_5
+    2300010: MassageRoom2_Candle_6
+    2300012: MassageRoom2_PotPurri
+    2300014: MassageRoom2_PotPurri_Pot
+    2300016: MassageRoom2_Table
+    2300018: MassageRoom2_Towel_1
+    2300020: MassageRoom2_Towel_2
+    2300022: MassageRoom2_Towel_3
+    2300024: MassageRoom2_Walls
+    2300026: MassageRoom_BedMattress
+    2300028: MassageRoom_BedWood
+    2300030: MassageRoom_Candels2
+    3300000: MassageRoom2_Candle_1
+    3300002: MassageRoom2_Candle_2
+    3300004: MassageRoom2_Candle_3
+    3300006: MassageRoom2_Candle_4
+    3300008: MassageRoom2_Candle_5
+    3300010: MassageRoom2_Candle_6
+    3300012: MassageRoom2_PotPurri
+    3300014: MassageRoom2_PotPurri_Pot
+    3300016: MassageRoom2_Table
+    3300018: MassageRoom2_Towel_1
+    3300020: MassageRoom2_Towel_2
+    3300022: MassageRoom2_Towel_3
+    3300024: MassageRoom2_Walls
+    3300026: MassageRoom_BedMattress
+    3300028: MassageRoom_BedWood
+    3300030: MassageRoom_Candels2
+    4300000: MassageRoom_BedWood
+    4300002: MassageRoom_BedMattress
+    4300004: MassageRoom_Candels2
+    4300006: MassageRoom2_Candle_1
+    4300008: MassageRoom2_Candle_2
+    4300010: MassageRoom2_Candle_3
+    4300012: MassageRoom2_Candle_4
+    4300014: MassageRoom2_Candle_5
+    4300016: MassageRoom2_Candle_6
+    4300018: MassageRoom2_PotPurri
+    4300020: MassageRoom2_Towel_1
+    4300022: MassageRoom2_Towel_2
+    4300024: MassageRoom2_Towel_3
+    4300026: MassageRoom2_PotPurri_Pot
+    4300028: MassageRoom2_Table
+    4300030: MassageRoom2_Walls
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
