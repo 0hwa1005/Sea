@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 4d757d10af673de49a7a8b5d1542c9cb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Left
+    100002: Left_2
+    100004: Left_3
+    100006: Left_4
+    100008: Left_5
+    100010: Left_6
+    100012: Right
+    100014: Right_2
+    100016: Right_3
+    100018: Right_4
+    100020: Right_5
+    100022: Right_6
+    100024: SM_Doors
+    100026: SM_Subway_Doors_Left_Back
+    100028: SM_Subway_Doors_Left_Front
+    100030: SM_Subway_Doors_Left_Middle
+    100032: SM_Subway_Doors_Right_Back
+    100034: SM_Subway_Doors_Right_Middle
+    100036: SM_Subway_Front_Door_01
+    100038: SM_Subway_Front_Door_02
+    100040: SM_Subway_Rear_Door_01
+    100042: SM_Subway_Rear_Door_02
+    100044: SM_Subway_Wheels_Back
+    100046: SM_Subway_Wheels_Front
+    100048: Subway_Doors_Right_Front
+    100050: //RootNode
+    100052: Wheels_01
+    100054: Wheels_01_2
+    100056: Wheels_02
+    100058: Wheels_02_2
+    400000: Left
+    400002: Left_2
+    400004: Left_3
+    400006: Left_4
+    400008: Left_5
+    400010: Left_6
+    400012: Right
+    400014: Right_2
+    400016: Right_3
+    400018: Right_4
+    400020: Right_5
+    400022: Right_6
+    400024: SM_Doors
+    400026: SM_Subway_Doors_Left_Back
+    400028: SM_Subway_Doors_Left_Front
+    400030: SM_Subway_Doors_Left_Middle
+    400032: SM_Subway_Doors_Right_Back
+    400034: SM_Subway_Doors_Right_Middle
+    400036: SM_Subway_Front_Door_01
+    400038: SM_Subway_Front_Door_02
+    400040: SM_Subway_Rear_Door_01
+    400042: SM_Subway_Rear_Door_02
+    400044: SM_Subway_Wheels_Back
+    400046: SM_Subway_Wheels_Front
+    400048: Subway_Doors_Right_Front
+    400050: //RootNode
+    400052: Wheels_01
+    400054: Wheels_01_2
+    400056: Wheels_02
+    400058: Wheels_02_2
+    2100000: MAT_Subway
+    2300000: Left
+    2300002: Left_2
+    2300004: Left_3
+    2300006: Left_4
+    2300008: Left_5
+    2300010: Left_6
+    2300012: Right
+    2300014: Right_2
+    2300016: Right_3
+    2300018: Right_4
+    2300020: Right_5
+    2300022: Right_6
+    2300024: SM_Subway_Front_Door_01
+    2300026: SM_Subway_Front_Door_02
+    2300028: SM_Subway_Rear_Door_01
+    2300030: SM_Subway_Rear_Door_02
+    2300032: SM_Subway_Wheels_Back
+    2300034: SM_Subway_Wheels_Front
+    2300036: //RootNode
+    2300038: Wheels_01
+    2300040: Wheels_01_2
+    2300042: Wheels_02
+    2300044: Wheels_02_2
+    3300000: Left
+    3300002: Left_2
+    3300004: Left_3
+    3300006: Left_4
+    3300008: Left_5
+    3300010: Left_6
+    3300012: Right
+    3300014: Right_2
+    3300016: Right_3
+    3300018: Right_4
+    3300020: Right_5
+    3300022: Right_6
+    3300024: SM_Subway_Front_Door_01
+    3300026: SM_Subway_Front_Door_02
+    3300028: SM_Subway_Rear_Door_01
+    3300030: SM_Subway_Rear_Door_02
+    3300032: SM_Subway_Wheels_Back
+    3300034: SM_Subway_Wheels_Front
+    3300036: //RootNode
+    3300038: Wheels_01
+    3300040: Wheels_01_2
+    3300042: Wheels_02
+    3300044: Wheels_02_2
+    4300000: SM_Subway_Car
+    4300002: SM_Subway_Wheels_Back
+    4300004: Wheels_01
+    4300006: Wheels_02
+    4300008: SM_Subway_Wheels_Front
+    4300010: Wheels_01_2
+    4300012: Wheels_02_2
+    4300014: SM_Subway_Rear_Door_01
+    4300016: SM_Subway_Rear_Door_02
+    4300018: SM_Subway_Front_Door_01
+    4300020: SM_Subway_Front_Door_02
+    4300022: Right
+    4300024: Left
+    4300026: Right_2
+    4300028: Left_2
+    4300030: Right_3
+    4300032: Left_3
+    4300034: Right_4
+    4300036: Left_4
+    4300038: Right_5
+    4300040: Left_5
+    4300042: Right_6
+    4300044: Left_6
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Subway
+    second: {fileID: 2100000, guid: 05d6955f3774136489675a27e9ff31e1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 19
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

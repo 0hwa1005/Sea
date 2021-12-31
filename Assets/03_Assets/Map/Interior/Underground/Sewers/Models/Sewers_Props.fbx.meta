@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 0e21448b4549cf44faacd5d8bd948962
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SM_Sewer_Tunnel_Bridge01_02
+    100004: SM_Sewer_Tunnel_Bridge01_03
+    100006: SM_Sewer_Tunnel_Bridge02_02
+    100008: SM_Sewer_Tunnel_Bridge02_03
+    100010: SM_Sewers_Props_Barrier
+    100012: SM_Sewers_Props_Ladder_1M
+    100014: SM_Sewers_Props_Ladder_2M
+    100016: SM_Sewers_Props_Manhole_01
+    100018: SM_Sewers_Props_Manhole_02
+    100020: SM_Sewers_Props_Manhole_Movable_01
+    100022: SM_Sewers_Props_Manhole_Movable_02
+    100024: SM_Sewers_Props_Plank_01
+    100026: SM_Sewers_Props_Plank_02
+    100028: SM_Sewers_Props_Step
+    100030: SM_Sewers_Props_Valve_01
+    100032: SM_Sewers_Props_Valve_02
+    100034: SM_Sewers_Props_Valve_03
+    100036: SM_Sewers_Props_Valve_Crank_02
+    100038: SM_Sewers_Props_Valve_Crank_03
+    100040: SM_Sewers_Props_Valve_Movable_01
+    100042: SM_Sewers_Props_Valve_Movable_02
+    100044: SM_Sewers_Props_Valve_Movable_03
+    400000: //RootNode
+    400002: SM_Sewer_Tunnel_Bridge01_02
+    400004: SM_Sewer_Tunnel_Bridge01_03
+    400006: SM_Sewer_Tunnel_Bridge02_02
+    400008: SM_Sewer_Tunnel_Bridge02_03
+    400010: SM_Sewers_Props_Barrier
+    400012: SM_Sewers_Props_Ladder_1M
+    400014: SM_Sewers_Props_Ladder_2M
+    400016: SM_Sewers_Props_Manhole_01
+    400018: SM_Sewers_Props_Manhole_02
+    400020: SM_Sewers_Props_Manhole_Movable_01
+    400022: SM_Sewers_Props_Manhole_Movable_02
+    400024: SM_Sewers_Props_Plank_01
+    400026: SM_Sewers_Props_Plank_02
+    400028: SM_Sewers_Props_Step
+    400030: SM_Sewers_Props_Valve_01
+    400032: SM_Sewers_Props_Valve_02
+    400034: SM_Sewers_Props_Valve_03
+    400036: SM_Sewers_Props_Valve_Crank_02
+    400038: SM_Sewers_Props_Valve_Crank_03
+    400040: SM_Sewers_Props_Valve_Movable_01
+    400042: SM_Sewers_Props_Valve_Movable_02
+    400044: SM_Sewers_Props_Valve_Movable_03
+    2100000: MAT_Sewer_Props
+    2300000: SM_Sewer_Tunnel_Bridge01_02
+    2300002: SM_Sewer_Tunnel_Bridge01_03
+    2300004: SM_Sewer_Tunnel_Bridge02_02
+    2300006: SM_Sewer_Tunnel_Bridge02_03
+    2300008: SM_Sewers_Props_Barrier
+    2300010: SM_Sewers_Props_Ladder_1M
+    2300012: SM_Sewers_Props_Ladder_2M
+    2300014: SM_Sewers_Props_Manhole_01
+    2300016: SM_Sewers_Props_Manhole_02
+    2300018: SM_Sewers_Props_Manhole_Movable_01
+    2300020: SM_Sewers_Props_Manhole_Movable_02
+    2300022: SM_Sewers_Props_Plank_01
+    2300024: SM_Sewers_Props_Plank_02
+    2300026: SM_Sewers_Props_Step
+    2300028: SM_Sewers_Props_Valve_01
+    2300030: SM_Sewers_Props_Valve_02
+    2300032: SM_Sewers_Props_Valve_03
+    2300034: SM_Sewers_Props_Valve_Crank_02
+    2300036: SM_Sewers_Props_Valve_Crank_03
+    2300038: SM_Sewers_Props_Valve_Movable_01
+    2300040: SM_Sewers_Props_Valve_Movable_02
+    2300042: SM_Sewers_Props_Valve_Movable_03
+    3300000: SM_Sewer_Tunnel_Bridge01_02
+    3300002: SM_Sewer_Tunnel_Bridge01_03
+    3300004: SM_Sewer_Tunnel_Bridge02_02
+    3300006: SM_Sewer_Tunnel_Bridge02_03
+    3300008: SM_Sewers_Props_Barrier
+    3300010: SM_Sewers_Props_Ladder_1M
+    3300012: SM_Sewers_Props_Ladder_2M
+    3300014: SM_Sewers_Props_Manhole_01
+    3300016: SM_Sewers_Props_Manhole_02
+    3300018: SM_Sewers_Props_Manhole_Movable_01
+    3300020: SM_Sewers_Props_Manhole_Movable_02
+    3300022: SM_Sewers_Props_Plank_01
+    3300024: SM_Sewers_Props_Plank_02
+    3300026: SM_Sewers_Props_Step
+    3300028: SM_Sewers_Props_Valve_01
+    3300030: SM_Sewers_Props_Valve_02
+    3300032: SM_Sewers_Props_Valve_03
+    3300034: SM_Sewers_Props_Valve_Crank_02
+    3300036: SM_Sewers_Props_Valve_Crank_03
+    3300038: SM_Sewers_Props_Valve_Movable_01
+    3300040: SM_Sewers_Props_Valve_Movable_02
+    3300042: SM_Sewers_Props_Valve_Movable_03
+    4300000: SM_Sewers_Props_Barrier
+    4300002: SM_Sewers_Props_Manhole_02
+    4300004: SM_Sewers_Props_Manhole_Movable_02
+    4300006: SM_Sewers_Props_Manhole_01
+    4300008: SM_Sewers_Props_Manhole_Movable_01
+    4300010: SM_Sewer_Tunnel_Bridge02_02
+    4300012: SM_Sewer_Tunnel_Bridge01_02
+    4300014: SM_Sewer_Tunnel_Bridge02_03
+    4300016: SM_Sewer_Tunnel_Bridge01_03
+    4300018: SM_Sewers_Props_Valve_03
+    4300020: SM_Sewers_Props_Valve_Crank_03
+    4300022: SM_Sewers_Props_Valve_Movable_03
+    4300024: SM_Sewers_Props_Valve_02
+    4300026: SM_Sewers_Props_Valve_Crank_02
+    4300028: SM_Sewers_Props_Valve_Movable_02
+    4300030: SM_Sewers_Props_Valve_01
+    4300032: SM_Sewers_Props_Valve_Movable_01
+    4300034: SM_Sewers_Props_Ladder_2M
+    4300036: SM_Sewers_Props_Ladder_1M
+    4300038: SM_Sewers_Props_Plank_02
+    4300040: SM_Sewers_Props_Plank_01
+    4300042: SM_Sewers_Props_Step
+    6400000: SM_Sewer_Tunnel_Bridge01_02
+    6400002: SM_Sewer_Tunnel_Bridge01_03
+    6400004: SM_Sewer_Tunnel_Bridge02_02
+    6400006: SM_Sewer_Tunnel_Bridge02_03
+    6400008: SM_Sewers_Props_Barrier
+    6400010: SM_Sewers_Props_Ladder_1M
+    6400012: SM_Sewers_Props_Ladder_2M
+    6400014: SM_Sewers_Props_Manhole_01
+    6400016: SM_Sewers_Props_Manhole_02
+    6400018: SM_Sewers_Props_Manhole_Movable_01
+    6400020: SM_Sewers_Props_Manhole_Movable_02
+    6400022: SM_Sewers_Props_Plank_01
+    6400024: SM_Sewers_Props_Plank_02
+    6400026: SM_Sewers_Props_Step
+    6400028: SM_Sewers_Props_Valve_01
+    6400030: SM_Sewers_Props_Valve_02
+    6400032: SM_Sewers_Props_Valve_03
+    6400034: SM_Sewers_Props_Valve_Crank_02
+    6400036: SM_Sewers_Props_Valve_Crank_03
+    6400038: SM_Sewers_Props_Valve_Movable_01
+    6400040: SM_Sewers_Props_Valve_Movable_02
+    6400042: SM_Sewers_Props_Valve_Movable_03
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Sewer_Props
+    second: {fileID: 2100000, guid: 3c929eabb5bcb034ba3443dba62871e7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

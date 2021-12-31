@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 65fd244d764d5f64794c2fc94035e959
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: SM_Subway_Tunnel_Ads_Board_01
+    100002: SM_Subway_Tunnel_Ads_Board_02
+    100004: SM_Subway_Tunnel_Props_Bench_01
+    100006: SM_Subway_Tunnel_Props_Bench_02
+    100008: SM_Subway_Tunnel_Props_Bench_03
+    100010: SM_Subway_Tunnel_Props_Bench_04
+    100012: SM_Subway_Tunnel_Props_Candy
+    100014: SM_Subway_Tunnel_Props_Coffee
+    100016: SM_Subway_Tunnel_Props_Decals_01
+    100018: SM_Subway_Tunnel_Props_Decals_02
+    100020: SM_Subway_Tunnel_Props_Decals_03
+    100022: SM_Subway_Tunnel_Props_Decals_04
+    100024: SM_Subway_Tunnel_Props_Decals_05
+    100026: SM_Subway_Tunnel_Props_Decals_05_2
+    100028: SM_Subway_Tunnel_Props_Decals_06
+    100030: SM_Subway_Tunnel_Props_Fence
+    100032: SM_Subway_Tunnel_Props_Lamp_01
+    100034: SM_Subway_Tunnel_Props_Lamp_02
+    100036: SM_Subway_Tunnel_Props_Lamp_03
+    100038: SM_Subway_Tunnel_Props_Lamp_04
+    100040: SM_Subway_Tunnel_Props_Lamp_05
+    100042: SM_Subway_Tunnel_Props_Paper_01
+    100044: SM_Subway_Tunnel_Props_Paper_02
+    100046: SM_Subway_Tunnel_Props_Paper_03
+    100048: SM_Subway_Tunnel_Props_Ticket_Gate
+    100050: SM_Subway_Tunnel_Props_Ticket_Gate_Door
+    100052: SM_Subway_Tunnel_Props_Tickets_Machine
+    100054: SM_Subway_Tunnel_Props_TrainDisplay
+    100056: SM_Subway_Tunnel_Props_TrainDisplayScreen
+    100058: //RootNode
+    400000: SM_Subway_Tunnel_Ads_Board_01
+    400002: SM_Subway_Tunnel_Ads_Board_02
+    400004: SM_Subway_Tunnel_Props_Bench_01
+    400006: SM_Subway_Tunnel_Props_Bench_02
+    400008: SM_Subway_Tunnel_Props_Bench_03
+    400010: SM_Subway_Tunnel_Props_Bench_04
+    400012: SM_Subway_Tunnel_Props_Candy
+    400014: SM_Subway_Tunnel_Props_Coffee
+    400016: SM_Subway_Tunnel_Props_Decals_01
+    400018: SM_Subway_Tunnel_Props_Decals_02
+    400020: SM_Subway_Tunnel_Props_Decals_03
+    400022: SM_Subway_Tunnel_Props_Decals_04
+    400024: SM_Subway_Tunnel_Props_Decals_05
+    400026: SM_Subway_Tunnel_Props_Decals_05_2
+    400028: SM_Subway_Tunnel_Props_Decals_06
+    400030: SM_Subway_Tunnel_Props_Fence
+    400032: SM_Subway_Tunnel_Props_Lamp_01
+    400034: SM_Subway_Tunnel_Props_Lamp_02
+    400036: SM_Subway_Tunnel_Props_Lamp_03
+    400038: SM_Subway_Tunnel_Props_Lamp_04
+    400040: SM_Subway_Tunnel_Props_Lamp_05
+    400042: SM_Subway_Tunnel_Props_Paper_01
+    400044: SM_Subway_Tunnel_Props_Paper_02
+    400046: SM_Subway_Tunnel_Props_Paper_03
+    400048: SM_Subway_Tunnel_Props_Ticket_Gate
+    400050: SM_Subway_Tunnel_Props_Ticket_Gate_Door
+    400052: SM_Subway_Tunnel_Props_Tickets_Machine
+    400054: SM_Subway_Tunnel_Props_TrainDisplay
+    400056: SM_Subway_Tunnel_Props_TrainDisplayScreen
+    400058: //RootNode
+    2100000: MAT_Subway_Tunnel_Props
+    2100002: MAT_Subway_Tunnel_Ads
+    2300000: SM_Subway_Tunnel_Ads_Board_01
+    2300002: SM_Subway_Tunnel_Ads_Board_02
+    2300004: SM_Subway_Tunnel_Props_Bench_01
+    2300006: SM_Subway_Tunnel_Props_Bench_02
+    2300008: SM_Subway_Tunnel_Props_Bench_03
+    2300010: SM_Subway_Tunnel_Props_Bench_04
+    2300012: SM_Subway_Tunnel_Props_Candy
+    2300014: SM_Subway_Tunnel_Props_Coffee
+    2300016: SM_Subway_Tunnel_Props_Decals_01
+    2300018: SM_Subway_Tunnel_Props_Decals_02
+    2300020: SM_Subway_Tunnel_Props_Decals_03
+    2300022: SM_Subway_Tunnel_Props_Decals_04
+    2300024: SM_Subway_Tunnel_Props_Decals_05
+    2300026: SM_Subway_Tunnel_Props_Decals_05_2
+    2300028: SM_Subway_Tunnel_Props_Decals_06
+    2300030: SM_Subway_Tunnel_Props_Fence
+    2300032: SM_Subway_Tunnel_Props_Lamp_01
+    2300034: SM_Subway_Tunnel_Props_Lamp_02
+    2300036: SM_Subway_Tunnel_Props_Lamp_03
+    2300038: SM_Subway_Tunnel_Props_Lamp_04
+    2300040: SM_Subway_Tunnel_Props_Lamp_05
+    2300042: SM_Subway_Tunnel_Props_Paper_01
+    2300044: SM_Subway_Tunnel_Props_Paper_02
+    2300046: SM_Subway_Tunnel_Props_Paper_03
+    2300048: SM_Subway_Tunnel_Props_Ticket_Gate
+    2300050: SM_Subway_Tunnel_Props_Ticket_Gate_Door
+    2300052: SM_Subway_Tunnel_Props_Tickets_Machine
+    2300054: SM_Subway_Tunnel_Props_TrainDisplay
+    2300056: SM_Subway_Tunnel_Props_TrainDisplayScreen
+    3300000: SM_Subway_Tunnel_Ads_Board_01
+    3300002: SM_Subway_Tunnel_Ads_Board_02
+    3300004: SM_Subway_Tunnel_Props_Bench_01
+    3300006: SM_Subway_Tunnel_Props_Bench_02
+    3300008: SM_Subway_Tunnel_Props_Bench_03
+    3300010: SM_Subway_Tunnel_Props_Bench_04
+    3300012: SM_Subway_Tunnel_Props_Candy
+    3300014: SM_Subway_Tunnel_Props_Coffee
+    3300016: SM_Subway_Tunnel_Props_Decals_01
+    3300018: SM_Subway_Tunnel_Props_Decals_02
+    3300020: SM_Subway_Tunnel_Props_Decals_03
+    3300022: SM_Subway_Tunnel_Props_Decals_04
+    3300024: SM_Subway_Tunnel_Props_Decals_05
+    3300026: SM_Subway_Tunnel_Props_Decals_05_2
+    3300028: SM_Subway_Tunnel_Props_Decals_06
+    3300030: SM_Subway_Tunnel_Props_Fence
+    3300032: SM_Subway_Tunnel_Props_Lamp_01
+    3300034: SM_Subway_Tunnel_Props_Lamp_02
+    3300036: SM_Subway_Tunnel_Props_Lamp_03
+    3300038: SM_Subway_Tunnel_Props_Lamp_04
+    3300040: SM_Subway_Tunnel_Props_Lamp_05
+    3300042: SM_Subway_Tunnel_Props_Paper_01
+    3300044: SM_Subway_Tunnel_Props_Paper_02
+    3300046: SM_Subway_Tunnel_Props_Paper_03
+    3300048: SM_Subway_Tunnel_Props_Ticket_Gate
+    3300050: SM_Subway_Tunnel_Props_Ticket_Gate_Door
+    3300052: SM_Subway_Tunnel_Props_Tickets_Machine
+    3300054: SM_Subway_Tunnel_Props_TrainDisplay
+    3300056: SM_Subway_Tunnel_Props_TrainDisplayScreen
+    4300000: SM_Subway_Tunnel_Props_Ticket_Gate
+    4300002: SM_Subway_Tunnel_Props_Ticket_Gate_Door
+    4300004: SM_Subway_Tunnel_Props_Tickets_Machine
+    4300006: SM_Subway_Tunnel_Props_Paper_03
+    4300008: SM_Subway_Tunnel_Props_Paper_02
+    4300010: SM_Subway_Tunnel_Props_Paper_01
+    4300012: SM_Subway_Tunnel_Props_Fence
+    4300014: SM_Subway_Tunnel_Props_TrainDisplay
+    4300016: SM_Subway_Tunnel_Props_TrainDisplayScreen
+    4300018: SM_Subway_Tunnel_Props_Candy
+    4300020: SM_Subway_Tunnel_Props_Coffee
+    4300022: SM_Subway_Tunnel_Props_Lamp_05
+    4300024: SM_Subway_Tunnel_Props_Lamp_04
+    4300026: SM_Subway_Tunnel_Props_Lamp_03
+    4300028: SM_Subway_Tunnel_Props_Lamp_02
+    4300030: SM_Subway_Tunnel_Props_Lamp_01
+    4300032: SM_Subway_Tunnel_Props_Bench_04
+    4300034: SM_Subway_Tunnel_Props_Bench_03
+    4300036: SM_Subway_Tunnel_Props_Bench_02
+    4300038: SM_Subway_Tunnel_Props_Bench_01
+    4300040: SM_Subway_Tunnel_Props_Decals_06
+    4300042: SM_Subway_Tunnel_Props_Decals_05
+    4300044: SM_Subway_Tunnel_Props_Decals_05_2
+    4300046: SM_Subway_Tunnel_Props_Decals_04
+    4300048: SM_Subway_Tunnel_Props_Decals_03
+    4300050: SM_Subway_Tunnel_Props_Decals_02
+    4300052: SM_Subway_Tunnel_Props_Decals_01
+    4300054: SM_Subway_Tunnel_Ads_Board_01
+    4300056: SM_Subway_Tunnel_Ads_Board_02
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Subway_Tunnel_Ads
+    second: {fileID: 2100000, guid: e0c642776732d3c4080c6d78b6904002, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Subway_Tunnel_Props
+    second: {fileID: 2100000, guid: 3408a0f5c24df9547bcc32d463771b2c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 19
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
